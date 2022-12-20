@@ -1,0 +1,22 @@
+body {
+    background-color: #990000
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "SEGOE PRINT"
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    font-family: "MV BOLI";
+    border: 20px outset gold;
+    text-align: center;
+}
+
+p img {
+    text-align: center;
+    border: 20px outset gold;
+}
